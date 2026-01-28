@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A472A</color>
+    <color name="primary_dark">#0D231A</color>
+    <color name="accent">#2ECC71</color>
+    <color name="background">#121212</color>
+    <color name="surface">#1A472A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="button_background">#2196F3</color>
+    <color name="speed_meter_background">#1E1E1E</color>
+    <color name="speed_meter_progress">#2196F3</color>
+</resources> 

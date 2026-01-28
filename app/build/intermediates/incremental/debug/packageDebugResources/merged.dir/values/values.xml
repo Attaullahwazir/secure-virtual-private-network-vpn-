@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#2ECC71</color>
+    <color name="background">#121212</color>
+    <color name="black">#000000</color>
+    <color name="button_background">#2196F3</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="green">#4CAF50</color>
+    <color name="primary">#1A472A</color>
+    <color name="primary_dark">#0D231A</color>
+    <color name="red">#F44336</color>
+    <color name="speed_meter_background">#1E1E1E</color>
+    <color name="speed_meter_progress">#2196F3</color>
+    <color name="surface">#1A472A</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="am_vpn_free">AM VPN Free</string>
+    <string name="am_vpn_premium">AM VPN Premium</string>
+    <string name="app_name">AM VPN</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="download">Download</string>
+    <string name="premium_feature">Premium Feature</string>
+    <string name="search_servers">Search Servers</string>
+    <string name="select_server">Select Server</string>
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+    <string name="upload">Upload</string>
+    <style name="Theme.AMVPN" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+    </style>
+</resources>

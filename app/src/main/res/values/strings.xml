@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AM VPN</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="select_server">Select Server</string>
+    <string name="search_servers">Search Servers</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+    <string name="premium_feature">Premium Feature</string>
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+    <string name="am_vpn_free">AM VPN Free</string>
+    <string name="am_vpn_premium">AM VPN Premium</string>
+</resources> 
