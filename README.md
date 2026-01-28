@@ -79,13 +79,8 @@ A secure and fast VPN client for Android with both free and premium servers worl
 - Protected against DNS leaks
 - Kill switch feature
 
-## Support
-
-For support, please contact:
-- Email: support@amvpn.com
-- Website: https://amvpn.com
-- Twitter: @amvpn
 
 ## License
+
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
